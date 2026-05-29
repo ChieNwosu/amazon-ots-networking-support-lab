@@ -154,4 +154,4 @@ IT administration traffic (SSH to switches, SNMP monitoring, firmware updates) s
 
 - **IP addressing and subnetting:** Demonstrates manual calculation of network addresses, broadcast addresses, usable ranges, and CIDR notation without relying on online calculators
 - **Network design thinking:** Shows ability to translate operational requirements (device counts, isolation needs, security boundaries) into a structured subnet plan
-- **OTS relevance:** Directly maps to maintaining uptime and availability — understanding subnet design helps diagnose address exhaustion, VLAN mismatches, and routing failures in high-density FC environments
+- **OTS relevance:** Directly maps to maintaining uptime and availability: understanding subnet design helps diagnose address exhaustion, VLAN mismatches, and routing failures in high-density FC environments
