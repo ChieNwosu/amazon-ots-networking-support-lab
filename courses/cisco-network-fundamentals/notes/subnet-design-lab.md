@@ -142,7 +142,7 @@ IT administration traffic (SSH to switches, SNMP monitoring, firmware updates) s
 
 ## What I Learned
 
-- Subnetting is not just math — it is a design decision that affects security, performance, and troubleshooting efficiency
+- Subnetting is not just math but also a design decision that affects security, performance, and troubleshooting efficiency
 - Fixed-length subnetting (/24 everywhere) is simple but wasteful; VLSM requires more planning but conserves address space significantly
 - The largest subnets should be allocated first in VLSM to avoid address fragmentation
 - Every subnet design decision has an operational reason (isolation, capacity, security, performance)
