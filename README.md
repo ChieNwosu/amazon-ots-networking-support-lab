@@ -118,7 +118,7 @@ Each course folder contains a README, plus `notes/`, `screenshots/`, and `certif
 
 ---
 
-## Resume-Ready Project Summary
+## Project Summary
 
 > A documentation-first technical learning lab demonstrating structured preparation for an Amazon IT Support Engineer I, Ops Tech Solutions (OTS) role. Developed professional troubleshooting runbooks, OTS role-alignment documentation, and organized coursework artifacts across seven Coursera specializations covering Cisco networking, Linux administration, cybersecurity operations, and network automation. Connects Amazon Fulfillment Center operations awareness with technical skill development in network diagnostics, endpoint support, and SOP authoring.
 
