@@ -52,6 +52,8 @@ amazon-ots-networking-support-lab/
 │   │   ├── amazon-ots-role-map.md
 │   │   ├── learning-roadmap.md
 │   │   └── resume-project-summary.md
+│   ├── learning-workflow/
+│   │   └── obsidian-notebooklm-kiro-workflow.md
 │   ├── troubleshooting-runbooks/
 │   │   ├── no-network-connectivity.md
 │   │   ├── dhcp-failure.md
@@ -115,6 +117,19 @@ Each course folder contains a README, plus `notes/`, `screenshots/`, and `certif
 - Structured troubleshooting methodology
 - SOP and runbook documentation
 - Technical communication and incident reporting
+
+---
+
+## Learning Workflow
+
+This repository publishes only original, polished artifacts. Raw course content, transcripts, quiz answers, and copied lesson text are never committed. The workflow that produces public-facing documentation follows four stages:
+
+1. **Obsidian Web Clipper** — Private raw capture and personal study notes (never published)
+2. **NotebookLM** — Source understanding, concept synthesis, and self-testing
+3. **ChatGPT** — Transformation of rough notes into polished summaries, runbooks, and professional language
+4. **Kiro** — Repository management, formatting, and Git operations
+
+All published content represents original summaries, applied troubleshooting notes, personal lab outputs, certificate proof, and learning reflections. See [`docs/learning-workflow/obsidian-notebooklm-kiro-workflow.md`](docs/learning-workflow/obsidian-notebooklm-kiro-workflow.md) for the full workflow description and content ethics boundaries.
 
 ---
 
