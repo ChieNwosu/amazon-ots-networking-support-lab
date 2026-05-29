@@ -111,9 +111,9 @@ This roadmap outlines a phased approach to developing the technical skills requi
 
 | Phase | Status | Target Completion | Courses Enrolled | Certificates Earned |
 |---|---|---|---|---|
-| Phase 1: Networking Fundamentals | Not Started | -- | 2 | 0 |
-| Phase 2: Advanced Networking | Not Started | -- | 2 | 0 |
-| Phase 3: Systems and Security | Not Started | -- | 2 | 0 |
+| Phase 1: Networking Fundamentals | In Progress | -- | 2 | 0 |
+| Phase 2: Advanced Networking | In Progress | -- | 2 | 0 |
+| Phase 3: Systems and Security | In Progress | -- | 2 | 0 |
 | Phase 4: Automation and Integration | Not Started | -- | 1 | 0 |
 
 ---

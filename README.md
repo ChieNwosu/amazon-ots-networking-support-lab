@@ -33,9 +33,9 @@ This repository maps directly to these responsibilities through coursework, trou
 
 | Phase | Focus | Courses | Status |
 |-------|-------|---------|--------|
-| 1 | Networking Fundamentals | Cisco Network Fundamentals, Cisco Solutions and Networking Fundamentals | Not Started |
-| 2 | Advanced Networking | Cisco CCNA (200-301), Cisco Data Center Foundations | Not Started |
-| 3 | Systems and Security | Linux and Private Cloud Administration, Cybersecurity Operations Fundamentals | Not Started |
+| 1 | Networking Fundamentals | Cisco Network Fundamentals, Cisco Solutions and Networking Fundamentals | In Progress |
+| 2 | Advanced Networking | Cisco CCNA (200-301), Cisco Data Center Foundations | In Progress |
+| 3 | Systems and Security | Linux and Private Cloud Administration, Cybersecurity Operations Fundamentals | In Progress |
 | 4 | Automation and Integration | Network Automation Engineering Fundamentals | Not Started |
 
 See [`docs/role-alignment/learning-roadmap.md`](docs/role-alignment/learning-roadmap.md) for detailed phase descriptions and sequencing rationale.
@@ -89,11 +89,11 @@ Each course folder contains a README, plus `notes/`, `screenshots/`, and `certif
 
 | Program | Provider | Platform | Link | Status |
 |---------|----------|----------|------|--------|
-| Network Fundamentals Specialization | Cisco | Coursera | [Link](https://www.coursera.org/specializations/network-fundamentals) | Not Started |
-| Cisco Solutions and Networking Fundamentals | Packt | Coursera | [Link](https://www.coursera.org/specializations/packt-cisco-solutions-and-networking-fundamentals) | Not Started |
-| Cisco CCNA (200-301) Specialization | Packt | Coursera | [Link](https://www.coursera.org/specializations/packt-cisco-ccna-200-301) | Not Started |
-| Linux and Private Cloud Administration on IBM Power Systems | IBM / Red Hat | Coursera | [Link](https://www.coursera.org/specializations/linux-private-cloud-administration-power-systems) | Not Started |
-| Cybersecurity Operations Fundamentals | Cisco | Coursera | [Link](https://www.coursera.org/specializations/cbrops) | Not Started |
+| Network Fundamentals Specialization | Cisco | Coursera | [Link](https://www.coursera.org/specializations/network-fundamentals) | In Progress |
+| Cisco Solutions and Networking Fundamentals | Packt | Coursera | [Link](https://www.coursera.org/specializations/packt-cisco-solutions-and-networking-fundamentals) | In Progress |
+| Cisco CCNA (200-301) Specialization | Packt | Coursera | [Link](https://www.coursera.org/specializations/packt-cisco-ccna-200-301) | In Progress |
+| Linux and Private Cloud Administration on IBM Power Systems | IBM / Red Hat | Coursera | [Link](https://www.coursera.org/specializations/linux-private-cloud-administration-power-systems) | In Progress |
+| Cybersecurity Operations Fundamentals | Cisco | Coursera | [Link](https://www.coursera.org/specializations/cbrops) | In Progress |
 | Understanding Cisco Data Center Foundations | Cisco | Coursera | [Link](https://www.coursera.org/specializations/cisco-datacenter-foundations) | Not Started |
 | Network Automation Engineering Fundamentals | Cisco | Coursera | [Link](https://www.coursera.org/specializations/networkautomation) | Not Started |
 
