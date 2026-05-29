@@ -48,12 +48,17 @@ See [`docs/role-alignment/learning-roadmap.md`](docs/role-alignment/learning-roa
 amazon-ots-networking-support-lab/
 ├── README.md
 ├── docs/
+│   ├── foundational-it/
+│   │   ├── freecodecamp-it-fundamentals-summary.md
+│   │   ├── it-support-glossary.md
+│   │   └── it-fundamentals-to-ots-map.md
 │   ├── role-alignment/
 │   │   ├── amazon-ots-role-map.md
 │   │   ├── learning-roadmap.md
 │   │   └── resume-project-summary.md
 │   ├── learning-workflow/
-│   │   └── obsidian-notebooklm-kiro-workflow.md
+│   │   ├── obsidian-notebooklm-kiro-workflow.md
+│   │   └── public-release-framework.md
 │   ├── troubleshooting-runbooks/
 │   │   ├── no-network-connectivity.md
 │   │   ├── dhcp-failure.md
@@ -62,7 +67,9 @@ amazon-ots-networking-support-lab/
 │   │   └── device-offline-troubleshooting.md
 │   └── reflections/
 │       ├── amazon-operations-to-ots.md
-│       └── technical-growth-log.md
+│       ├── technical-growth-log.md
+│       ├── week-01-ots-learning-log.md
+│       └── week-02-ots-learning-log.md
 ├── courses/
 │   ├── cisco-network-fundamentals/
 │   ├── cisco-solutions-networking-fundamentals/
@@ -98,6 +105,17 @@ Each course folder contains a README, plus `notes/`, `screenshots/`, and `certif
 | Cybersecurity Operations Fundamentals | Cisco | Coursera | [Link](https://www.coursera.org/specializations/cbrops) | In Progress |
 | Understanding Cisco Data Center Foundations | Cisco | Coursera | [Link](https://www.coursera.org/specializations/cisco-datacenter-foundations) | Not Started |
 | Network Automation Engineering Fundamentals | Cisco | Coursera | [Link](https://www.coursera.org/specializations/networkautomation) | Not Started |
+
+---
+
+## Supplemental Learning Sources
+
+In addition to the Coursera specializations listed below, I used [FreeCodeCamp's Information Technology course](https://www.freecodecamp.org/) as supplemental self-paced learning to strengthen foundational IT concepts. This is not a formal certification — it is additional study material that helped build a broader mental model of hardware, networking, cloud, and security before diving into protocol-level coursework.
+
+Related documentation:
+- [`docs/foundational-it/freecodecamp-it-fundamentals-summary.md`](docs/foundational-it/freecodecamp-it-fundamentals-summary.md) — Summary of learning areas and OTS relevance
+- [`docs/foundational-it/it-support-glossary.md`](docs/foundational-it/it-support-glossary.md) — Beginner-friendly IT glossary with FC/OTS examples
+- [`docs/foundational-it/it-fundamentals-to-ots-map.md`](docs/foundational-it/it-fundamentals-to-ots-map.md) — Role-alignment table connecting IT topics to OTS responsibilities
 
 ---
 

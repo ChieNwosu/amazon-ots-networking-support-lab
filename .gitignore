@@ -1,5 +1,18 @@
+# OS files
 .DS_Store
 Thumbs.db
 *.tmp
 *.swp
 *~
+
+# Private source materials (never commit)
+_source-inbox/
+private-notes/
+
+# Secrets and credentials
+*.pem
+*.key
+.env
+.env.*
+credentials*
+secrets*
