@@ -63,6 +63,7 @@ amazon-ots-networking-support-lab/
 │   │   ├── no-network-connectivity.md
 │   │   ├── dhcp-failure.md
 │   │   ├── dns-resolution-issue.md
+│   │   ├── dns-resolution-diagnostics.md
 │   │   ├── workstation-endpoint-support.md
 │   │   ├── device-offline-troubleshooting.md
 │   │   └── osi-layered-diagnostics.md
@@ -73,6 +74,8 @@ amazon-ots-networking-support-lab/
 │       └── week-02-ots-learning-log.md
 ├── courses/
 │   ├── cisco-network-fundamentals/
+│   │   └── notes/
+│   │       └── subnet-design-lab.md
 │   ├── cisco-solutions-networking-fundamentals/
 │   ├── packt-ccna-200-301/
 │   ├── linux-private-cloud-administration/
@@ -117,21 +120,7 @@ Related documentation:
 - [`docs/foundational-it/freecodecamp-it-fundamentals-summary.md`](docs/foundational-it/freecodecamp-it-fundamentals-summary.md) — Summary of learning areas and OTS relevance
 - [`docs/foundational-it/it-support-glossary.md`](docs/foundational-it/it-support-glossary.md) — Beginner-friendly IT glossary with FC/OTS examples
 - [`docs/foundational-it/it-fundamentals-to-ots-map.md`](docs/foundational-it/it-fundamentals-to-ots-map.md) — Role-alignment table connecting IT topics to OTS responsibilities
-
----
-
-## Troubleshooting Runbooks
-
-Structured diagnostic guides developed as learning exercises for OTS preparation:
-
-| Runbook | Focus |
-|---------|-------|
-| [`no-network-connectivity.md`](docs/troubleshooting-runbooks/no-network-connectivity.md) | General network connectivity loss |
-| [`dhcp-failure.md`](docs/troubleshooting-runbooks/dhcp-failure.md) | DHCP assignment failures |
-| [`dns-resolution-issue.md`](docs/troubleshooting-runbooks/dns-resolution-issue.md) | DNS resolution diagnostics |
-| [`workstation-endpoint-support.md`](docs/troubleshooting-runbooks/workstation-endpoint-support.md) | Endpoint and workstation triage |
-| [`device-offline-troubleshooting.md`](docs/troubleshooting-runbooks/device-offline-troubleshooting.md) | Device offline scenarios |
-| [`osi-layered-diagnostics.md`](docs/troubleshooting-runbooks/osi-layered-diagnostics.md) | **NEW** — OSI model-based structured diagnostics with FC-style scenarios |
+- [`courses/cisco-network-fundamentals/notes/subnet-design-lab.md`](courses/cisco-network-fundamentals/notes/subnet-design-lab.md) — Hands-on subnetting exercise designing FC network segments
 
 ---
 
@@ -139,12 +128,13 @@ Structured diagnostic guides developed as learning exercises for OTS preparation
 
 Structured diagnostic guides built as learning exercises for OTS role preparation:
 
-- [`docs/troubleshooting-runbooks/osi-layered-diagnostics.md`](docs/troubleshooting-runbooks/osi-layered-diagnostics.md) — OSI-layered diagnostic framework with FC-style scenarios and escalation criteria
-- [`docs/troubleshooting-runbooks/no-network-connectivity.md`](docs/troubleshooting-runbooks/no-network-connectivity.md) — General network connectivity troubleshooting
-- [`docs/troubleshooting-runbooks/dhcp-failure.md`](docs/troubleshooting-runbooks/dhcp-failure.md) — DHCP assignment failure diagnostics
-- [`docs/troubleshooting-runbooks/dns-resolution-issue.md`](docs/troubleshooting-runbooks/dns-resolution-issue.md) — DNS resolution troubleshooting
-- [`docs/troubleshooting-runbooks/workstation-endpoint-support.md`](docs/troubleshooting-runbooks/workstation-endpoint-support.md) — Workstation and endpoint triage
-- [`docs/troubleshooting-runbooks/device-offline-troubleshooting.md`](docs/troubleshooting-runbooks/device-offline-troubleshooting.md) — Device offline diagnostics
+- [`osi-layered-diagnostics.md`](docs/troubleshooting-runbooks/osi-layered-diagnostics.md) — OSI model-based structured diagnostics with FC-style scenarios and escalation criteria
+- [`dns-resolution-diagnostics.md`](docs/troubleshooting-runbooks/dns-resolution-diagnostics.md) — DNS troubleshooting with command references, worked scenarios, and escalation guidance
+- [`no-network-connectivity.md`](docs/troubleshooting-runbooks/no-network-connectivity.md) — General network connectivity troubleshooting
+- [`dhcp-failure.md`](docs/troubleshooting-runbooks/dhcp-failure.md) — DHCP assignment failure diagnostics
+- [`dns-resolution-issue.md`](docs/troubleshooting-runbooks/dns-resolution-issue.md) — DNS resolution troubleshooting
+- [`workstation-endpoint-support.md`](docs/troubleshooting-runbooks/workstation-endpoint-support.md) — Workstation and endpoint triage
+- [`device-offline-troubleshooting.md`](docs/troubleshooting-runbooks/device-offline-troubleshooting.md) — Device offline diagnostics
 
 ---
 
