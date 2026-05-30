@@ -114,7 +114,7 @@ Each course folder contains a README, plus `notes/`, `screenshots/`, and `certif
 
 ## Supplemental Learning Sources
 
-In addition to the Coursera specializations listed below, I used [FreeCodeCamp's Information Technology course](https://www.freecodecamp.org/) as supplemental self-paced learning to strengthen foundational IT concepts. This is not a formal certification — it is additional study material that helped build a broader mental model of hardware, networking, cloud, and security before diving into protocol-level coursework.
+In addition to the Coursera specializations listed below, I used [FreeCodeCamp's Information Technology course](https://www.freecodecamp.org/) as supplemental self-paced learning to strengthen foundational IT concepts. This is not a formal certification, but an additional study material that helped build a broader mental model of hardware, networking, cloud, and security before diving into protocol-level coursework.
 
 Related documentation:
 - [`docs/foundational-it/freecodecamp-it-fundamentals-summary.md`](docs/foundational-it/freecodecamp-it-fundamentals-summary.md) — Summary of learning areas and OTS relevance
